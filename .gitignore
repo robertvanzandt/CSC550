@@ -1,0 +1,13 @@
+# Ignore node package manager files
+*/node_modules
+*/package-lock.json
+*/package.json
+
+# Ignore platforms
+*/platforms
+
+# Ignore file system files
+.DS_Store
+
+# Ignore workspace files
+*.code-workspace
